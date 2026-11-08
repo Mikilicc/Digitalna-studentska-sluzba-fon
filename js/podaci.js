@@ -94,7 +94,7 @@ const SALTERI = [
           { name: 'napomena', label: 'Napomena', type: 'textarea', full: true, placeholder: 'Dodatne informacije (opciono)' },
         ],
         fajlovi: [
-          { name: 'uverenje', label: 'Uverenje o upisu', accept: '.pdf,.jpg,.png', required: true },
+          { name: 'formular', label: 'Formular za studentski dom', accept: '.pdf,.jpg,.png', required: true },
           { name: 'primanja', label: 'Potvrda o primanjima domaćinstva', accept: '.pdf,.jpg,.png', required: true },
         
         ],
